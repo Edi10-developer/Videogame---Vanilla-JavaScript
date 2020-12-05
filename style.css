@@ -1,0 +1,31 @@
+
+
+#time {
+      width:200px;
+      height: 100px;
+      color:white;
+      font-size:30px;
+      text-align: center;
+
+}
+        #shape {
+            width:200px;
+            height:200;
+            background-color: red;
+            border-radius:0%;
+            display:none;
+            position: relative;
+         
+        }
+        h1{
+    font-size: 35px;
+    color:white;
+    text-decoration:bold;
+    text-align:center;
+}
+
+
+body {
+    background-image:url("img/sfondo.jpg");
+}
+        
